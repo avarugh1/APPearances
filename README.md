@@ -9,6 +9,7 @@ By browsing different datasets, the 10000 Play Store App data caught my eye. It 
 
 ## Directions to run
 $ make
+
 $ ./APPearances
 
 ## Technical Details
